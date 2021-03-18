@@ -7,5 +7,8 @@
 This is the source code for the plugin that recreates the plugin in https://www.youtube.com/watch?v=ZHZXMc4Nbso.
 
 Spigot page: https://www.spigotmc.org/resources/wisp-random-potion-effects-challenge.90282/
+
 bStats page: https://bstats.org/plugin/bukkit/WispRandomPotionEffects/10711
+
 Discord: https://discord.gg/xJ43XgY73A
+
