@@ -1,0 +1,8 @@
+name: WispRandomPotionEffect
+version: ${project.version}
+main: dev.yhdiamond.wisprandompotioneffect.WispRandomPotionEffect
+api-version: 1.16
+commands:
+  wisprandompotioneffects:
+    usage: /wisprandompotioneffects <start/stop>
+    description: A command to start the Wisp Random Potion Effects challenge
