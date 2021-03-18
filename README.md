@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-GPL-orange)](https://github.com/WispRecreationProject/WispRandomPotionEffects/blob/main/LICENSE)
 
 # WispRandomPotionEffects
-This is the source code for the plugin that recreates the plugin in https://www.youtube.com/watch?v=ZHZXMc4Nbso.
+This is the source code for the plugin that recreates the plugin in https://www.youtube.com/watch?v=ZHZXMc4Nbso, which gives all online players a random level 2 potion effect every 10 seconds.
 
 Spigot page: https://www.spigotmc.org/resources/wisp-random-potion-effects-challenge.90282/
 
